@@ -1,7 +1,5 @@
 # 💖 Projeto Especial para Minha Mulher
 
-![Love Banner](https://unsplash.com/pt-br/fotografias/heart-bokeh-light-Y9mWkERHYCU)
-
 > _“Porque até no código dá pra colocar amor.”_
 
 ---
